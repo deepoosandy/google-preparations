@@ -1,0 +1,10 @@
+
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(½ÛÃÒ
+@
+java:S1481E"*Remove this unused "value" local variable.(‘ØºÕ
+a
+java:S1854V"FRemove this useless assignment to local variable "reversedLinkedList".(›•ý€ÿÿÿÿÿ
+D
+java:S1481Q")Remove this unused "flag" local variable.(ŸÿáÑÿÿÿÿÿ
+R
+java:S1481V"7Remove this unused "reversedLinkedList" local variable.(›•ý€ÿÿÿÿÿ
