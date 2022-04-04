@@ -1,9 +1,0 @@
-
-P
-java:S1118":Add a private constructor to hide the implicit public one.(ÇÒ‘ë
-l
-java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ
-f
-java:S1104"PMake left a static final constant or non-public and provide accessors if needed.(Ü¥ÚÈ
-l
-java:S1104"QMake right a static final constant or non-public and provide accessors if needed.(Ñ˜‡êúÿÿÿÿ
