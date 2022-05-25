@@ -15,3 +15,5 @@ q
 Asrc/main/java/com/medium/questions/MergeOverLappingIntervals.java,8\1\810490f20936bd4f74c6521bd763e2a00ce05e8d
 _
 /src/main/java/com/medium/questions/Program.java,f\7\f74606fdce9d1d70b53af2d45215674ac1d7a04d
+q
+Asrc/main/java/com/medium/questions/CapgeminDistanceQuestion1.java,8\5\85d518815127085775173bd490e3da0539589d6b
